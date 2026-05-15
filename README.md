@@ -1,59 +1,46 @@
-<div align="center">
+﻿# My Portfolio
 
-# 🎨 My Portfolio
+## Overview
+This project is part of my full-stack web development journey. Built with modern technologies and best practices.
 
-### *Personal Portfolio Website*
+## Features
+- Clean, responsive user interface
+- Modern JavaScript (ES6+) and React
+- RESTful API integration
+- Secure authentication system
+- Performance optimized
 
-![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## Tech Stack
+| Layer | Technology |
+|-------|-----------|
+| Frontend | React.js, HTML5, CSS3 |
+| Backend | Node.js, Express.js |
+| Database | MongoDB, Mongoose |
+| Auth | JWT, bcrypt |
+| Tools | Git, VS Code, Postman |
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-inky-two-40.vercel.app)
+## Getting Started
 
-</div>
+### Prerequisites
+- Node.js (v18+)
+- npm or yarn
+- MongoDB
 
----
-
-## 📖 Overview
-
-Personal portfolio website built with Next.js 14. Features modern UI/UX, responsive design, animated splash screen, and project showcase with live links.
-
----
-
-## ✨ Features
-
-| Feature | Description |
-|---------|-------------|
-| 🎬 **Animated Splash** | Eye-catching loading animation |
-| 📱 **Fully Responsive** | Mobile-first design |
-| 🚀 **Fast Performance** | Next.js SSR/SSG optimization |
-| 🎯 **Project Showcase** | Display projects with live links |
-| 📧 **Contact Form** | Get in touch easily |
-| 🎨 **Modern UI/UX** | Clean and professional design |
-
----
-
-## 🚀 Getting Started
-
+### Installation
 ```bash
 git clone https://github.com/sojibahmedshorif25-ai/My-Portfolio.git
+cd My-Portfolio
 npm install
-npm run dev
+cp .env.example .env
+npm start
 ```
 
----
+## Contributing
+Pull requests are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-## 👨‍💻 Author
+## License
+[MIT](LICENSE) Â© Sojib Ahmed
 
-**Sojib Ahmed**
-
-[![GitHub](https://img.shields.io/badge/GitHub-sojibahmedshorif25--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sojibahmedshorif25-ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sojib_Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sojib-ahmed-shorif)
-
----
-
-<div align="center">
-
-**⭐ Star this repo if you find it impressive!**
-
-</div>
+## Author
+**Sojib Ahmed** | Full Stack Developer
+- GitHub: [@sojibahmedshorif25-ai](https://github.com/sojibahmedshorif25-ai)

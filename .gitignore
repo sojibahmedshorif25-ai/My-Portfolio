@@ -1,32 +1,41 @@
-# Dependencies - these get installed via npm install
+﻿# Dependencies
 node_modules/
+.pnp
+.pnp.js
 
-# Next.js build output
-.next/
-out/
+# Build
+/build
+/dist
+/.next/
+/out/
 
-# Production build
-build/
-
-# Environment variables - keep these secret!
+# Env
 .env
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
 
-# OS files
-.DS_Store
-Thumbs.db
-
-# Editor folders
-.vscode/
-.idea/
-
-# Debug logs
+# Logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+*.log
 
-# Vercel deployment
-.vercel 
+# IDE
+.vscode/
+.idea/
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+coverage/
+
+# Cache
+.cache/
+tmp/
+*.tmp
+*.bak
