@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react'
 
 // Words that cycle in the typewriter animation
 const roles = [
-  'MERN Stack Developer',
+  'Fullstack Developer',
   'React Enthusiast',
   'UI/UX Lover',
   'Web Designer',
