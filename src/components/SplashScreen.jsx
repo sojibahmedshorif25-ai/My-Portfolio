@@ -61,7 +61,7 @@ export default function SplashScreen({ onFinished }) {
         fontWeight: 300,
         fontSize: "1.1rem"
       }}>
-        Fullstack Developer & Designer
+        MERN-Stack Developer & Designer
       </p>
     </div>
   );
